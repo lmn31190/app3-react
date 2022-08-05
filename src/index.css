@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.success{
+  position: relative;
+  left: 25%;
+  top: 10%;
+  background: rgb(0, 197, 0);
+  border-radius: 10px;
+  padding: 3px 5px;
+  color: rgb(255, 255, 255);
+  display: inline;
+  text-align: center;
+}
